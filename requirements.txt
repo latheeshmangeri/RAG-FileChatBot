@@ -10,3 +10,4 @@ pillow==9.5.0
 python-pptx==0.6.21
 openai
 openpyxl
+altair<5
